@@ -1,0 +1,4 @@
+1. Satu
+2. Dua
+3. Tiga
+4. Empat
